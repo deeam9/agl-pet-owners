@@ -1,4 +1,0 @@
-C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\bin\Debug\netcoreapp1.1\Dm.Agl.Main.deps.json
-C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\bin\Debug\netcoreapp1.1\Dm.Agl.Main.runtimeconfig.json
-C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\bin\Debug\netcoreapp1.1\Dm.Agl.Main.runtimeconfig.dev.json
-C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\obj\Debug\netcoreapp1.1\Dm.Agl.Main.AssemblyInfo.cs
