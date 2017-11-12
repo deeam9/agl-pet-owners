@@ -1,0 +1,14 @@
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.XUnitTest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.XUnitTest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.XUnitTest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.XUnitTest\bin\Debug\netcoreapp1.1\Dm.Agl.XUnitTest.deps.json
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.XUnitTest\bin\Debug\netcoreapp1.1\Dm.Agl.XUnitTest.runtimeconfig.json
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.XUnitTest\bin\Debug\netcoreapp1.1\Dm.Agl.XUnitTest.runtimeconfig.dev.json
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.XUnitTest\bin\Debug\netcoreapp1.1\Dm.Agl.XUnitTest.dll
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.XUnitTest\bin\Debug\netcoreapp1.1\Dm.Agl.XUnitTest.pdb
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.XUnitTest\bin\Debug\netcoreapp1.1\Dm.Agl.Cats.Output.dll
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.XUnitTest\bin\Debug\netcoreapp1.1\Dm.Agl.Cats.Output.pdb
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.XUnitTest\obj\Debug\netcoreapp1.1\Dm.Agl.XUnitTest.csprojResolveAssemblyReference.cache
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.XUnitTest\obj\Debug\netcoreapp1.1\Dm.Agl.XUnitTest.AssemblyInfo.cs
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.XUnitTest\obj\Debug\netcoreapp1.1\Dm.Agl.XUnitTest.dll
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.XUnitTest\obj\Debug\netcoreapp1.1\Dm.Agl.XUnitTest.pdb

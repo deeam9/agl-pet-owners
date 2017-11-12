@@ -1,0 +1,11 @@
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\bin\Debug\netcoreapp1.1\Agl.Main.deps.json
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\bin\Debug\netcoreapp1.1\Agl.Main.runtimeconfig.json
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\bin\Debug\netcoreapp1.1\Agl.Main.runtimeconfig.dev.json
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\bin\Debug\netcoreapp1.1\Agl.Main.dll
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\bin\Debug\netcoreapp1.1\Agl.Main.pdb
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\obj\Debug\netcoreapp1.1\Agl.Main.csprojResolveAssemblyReference.cache
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\obj\Debug\netcoreapp1.1\Agl.Main.AssemblyInfo.cs
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\obj\Debug\netcoreapp1.1\Agl.Main.dll
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\obj\Debug\netcoreapp1.1\Agl.Main.pdb
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\bin\Debug\netcoreapp1.1\Dm.Agl.Cats.Output.dll
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Agl-test\bin\Debug\netcoreapp1.1\Dm.Agl.Cats.Output.pdb

@@ -1,0 +1,6 @@
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.Cats.Output\bin\Debug\netstandard1.4\Dm.Agl.Cats.Output.deps.json
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.Cats.Output\bin\Debug\netstandard1.4\Dm.Agl.Cats.Output.dll
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.Cats.Output\bin\Debug\netstandard1.4\Dm.Agl.Cats.Output.pdb
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.Cats.Output\obj\Debug\netstandard1.4\Dm.Agl.Cats.Output.AssemblyInfo.cs
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.Cats.Output\obj\Debug\netstandard1.4\Dm.Agl.Cats.Output.dll
+C:\Dushyant_new\Technical\Projects\AGL\Agl-test\Dm.Agl.Cats.Output\obj\Debug\netstandard1.4\Dm.Agl.Cats.Output.pdb
